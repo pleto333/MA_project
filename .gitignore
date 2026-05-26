@@ -1,0 +1,23 @@
+﻿*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Generated build and IDE state
+/.idea/
+/.kotlin/
+/app/build/
+/report_rendered/
+build_report_docx.py
+
+# Keep final report and presentation files tracked
